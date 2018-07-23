@@ -1,0 +1,9 @@
+{
+"TOTAL_MEMORY": 268435456,
+"dataUrl": "NekoMasu100.data.unityweb",
+"asmCodeUrl": "NekoMasu100.asm.code.unityweb",
+"asmMemoryUrl": "NekoMasu100.asm.memory.unityweb",
+"asmFrameworkUrl": "NekoMasu100.asm.framework.unityweb",
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
